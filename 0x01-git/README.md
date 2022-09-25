@@ -1,2 +1,2 @@
 hello world
-what a beautiful day
+my first code
